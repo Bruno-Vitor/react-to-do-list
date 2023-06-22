@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-    <a href="https://to-do-list-bruno-vitor.vercel.app/" target="_blank">Acessar o projeto</a>
+    <a href="https://react-to-do-list-bruno-vitor.vercel.app/" target="_blank">Acessar o projeto</a>
 </h2>
 
 ## 📝 Sobre
